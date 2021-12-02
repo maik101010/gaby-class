@@ -1,5 +1,7 @@
-import nuevo.MyFirstClass;
-import operations.MathOperations;
+package classe1;
+
+import classe1.nuevo.MyFirstClass;
+import classe1.operations.MathOperations;
 
 public class AnotherDistinctClass {
     public static void main(String[] args) {

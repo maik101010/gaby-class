@@ -1,4 +1,4 @@
-package statictest;
+package classe1.statictest;
 
 //One main class can have static methods
 public class MainClass {

@@ -1,4 +1,4 @@
-package operations;
+package classe1.operations;
 
 public class MathOperations {
     private double numberOne;

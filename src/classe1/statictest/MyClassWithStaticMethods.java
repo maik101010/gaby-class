@@ -1,4 +1,4 @@
-package statictest;
+package classe1.statictest;
 
 import java.util.ArrayList;
 import java.util.List;
