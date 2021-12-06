@@ -1,4 +1,4 @@
-package classe1.nuevo;
+package class1.nuevo;
 
 public class MyFirstClass {
     public static class AnotherClass {
