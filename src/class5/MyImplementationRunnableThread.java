@@ -1,4 +1,4 @@
-package clase5;
+package class5;
 
 /**
  * Created by michael.garcia on 24/02/2022
